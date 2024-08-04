@@ -1,1 +1,4 @@
-This colur is not a primary colour
+Elelments of Life
+Sand
+Sea
+Water
